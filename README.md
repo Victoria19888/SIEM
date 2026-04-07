@@ -3,7 +3,7 @@
 
 # Wazuh SIEM - Incident Response Home Lab
 
-A hands on cybersecurity home lab demonstrating real world threat detection and incident response using Wazuh SIEM. Built in VMware Workstation with multiple VMs simulating an attacker and victim environment.
+A hands on cybersecurity home lab demonstrating real world threat detection and incident response using Wazuh SIEM. Built in VMware Workstation with multiple VMs including kali linux to simulate an attacker and victim environment.
 
 ---
 
