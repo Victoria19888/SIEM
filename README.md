@@ -1,4 +1,3 @@
-Got it. Same README format, just cleaned up and no long dashes.
 
 ---
 
